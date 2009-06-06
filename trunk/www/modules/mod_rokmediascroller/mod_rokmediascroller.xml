@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+	<name>RokMediaScroller</name>
+	<author>RocketTheme</author>
+	<creationDate>December 2007</creationDate>
+	<copyright>(C) 2007 RocketTheme. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>support@rockettheme.com</authorEmail>
+	<authorUrl>www.rockettheme.com</authorUrl>
+	<version>1.0.1</version>
+	<description><![CDATA[
+	<h2>RokMediaScroller Module</h2>
+	<p>MediaScroller module created for rt_mediamogul template</p>
+	]]></description>
+	<files>
+		<filename module="mod_rokmediascroller">mod_rokmediascroller.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>rokmediascroller-packed.js</filename>
+		<filename>simplepie.inc</filename>
+		<folder>tmpl/</folder>
+	</files>
+	<params>
+	    <param name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="A suffix to be applied to the css class of the module (table.moduletable), this allows individual module styling" />
+        <param name="moduleid" type="text" default="media-list" label="ID of module" description="A unique ID is needed for every module on a page" />
+		<param name="feed_cache" type="radio" default="1" label="Enable Cache" description="Select whether to cache the content of this module">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param name="maxcount" type="text" size="5" default="9" label="Count" description="The number of items to display" />
+        <param name="feedurl" type="text" size="50" default="http://youtube.com/rss/global/top_favorites.rss" label="Feed URL" description="The URL of the Media RSS Feed" />
+        <param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="jslib" type="radio" default="1" label="Include rokmediascroller.js" description="Select whether to include the RokMediaScroller JS lib as part of this module, Select No if another RokMediaScroller module is published">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param name="duration" type="text" default="1000" label="Transition Duration" description="Duration in ms of cross-blend transition" />
+	</params>
+	<params group="advanced">
+		<param name="cache" type="list" default="1" label="Caching" description="Select whether to cache the content of this module">
+			<option value="1">Use global</option>
+			<option value="0">No caching</option>
+		</param>
+		<param name="cache_time" type="text" default="900" label="Cache Time" description="The time before the module is recached" />
+	</params>
+</install>
