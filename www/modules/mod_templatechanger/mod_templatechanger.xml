@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+	<name>Template Changer</name>
+	<author>JoomlaGear.com</author>
+	<creationDate>November 2008</creationDate>
+	<copyright>Copyright (C) 2008 - 2009 JoomlaGear. All rights reserved</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2</license>
+	<authorEmail>enquiry@joomlagear.com</authorEmail>
+	<authorUrl>www.joomlagear.com</authorUrl>
+	<version>1.2.0</version>
+	<description>
+		The Template Changer module allows changing templates on the fly from the frontend via a drop down selection list. For help or more information on this module visit JoomlaGear.com
+	</description>
+	<files>
+		<filename module="mod_templatechanger">mod_templatechanger.php</filename>
+		<filename>index.html</filename>
+		<filename>changelog.txt</filename>
+		<filename>helper.php</filename>
+		<filename>elements/index.html</filename>
+		<filename>elements/jgelements.php</filename>
+		<filename>tmpl/index.html</filename>
+		<filename>tmpl/default.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.mod_templatechanger.ini</language>
+	</languages>
+	<params addpath="/modules/mod_templatechanger/elements">
+		<param name="showpreview" type="jgelements" default="1" label="Show Preview:" description="Show Template Preview Image." />
+		<param name="imagewidth" type="jgelements" default="140" label="Image Width:" description="Set the width of template preview image. (default 140)" />
+		<param name="@spacer" type="spacer" />
+		<param name="enablecookie" type="jgelements" default="0" label="Enable Cookie:" description="Save frontend template selection in a cookie. (default No)" />
+		<param name="@spacer" type="spacer" />
+		<param name="enableemail" type="jgelements" default="0" label="Email Enquiry Button:" description="Frontend email enquiry button for the active template. (default No)" />
+		<param name="emailbuttonpretext" type="jgelements" label="Email Button Pre-text:" description="Email button pre-text for email enquiry." />
+		<param name="emailbuttontext" type="jgelements" label="Email Button Text:" description="Email button text for email enquiry. (max 15 characters)" />
+		<param name="emailaddress" type="jgelements" label="Email Address:" description="Email address for email enquiry." />
+		<param name="emailsubjectpretext" type="jgelements" label="Email Subject Pre-text:" description="Email subject pre-text for email enquiry. The active frontend template name is added to email subject pre-text. (max 100 characters)" />
+		<param name="@spacer" type="spacer" />
+		<param name="maxnamelength" type="jgelements" default="20" label="Max Name Length:" description="Limit the length of displayed template names. (default 20)" />
+		<param name="templateselection" type="jgelements" label="Template Selection:" description="Templates to include in the frontend drop down selection list." />
+	</params>
+	<params group="advanced">
+		<param name="moduleclass_sfx" type="text" default="_menu" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />
+	</params>
+</install>
