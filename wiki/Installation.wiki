@@ -1,0 +1,5 @@
+#summary Installation tips for bdnews24 / joomla base.
+
+= Installation =
+
+There is no configuration.php file. Usually when trying to run without this Joomla will try to find the installation folder attempting to do fresh install. So, just copy configuration.php-dist to configuration.php, then edit the file and fill in the settings (like hostname, db user/password/name, physical folder structure, etc).
