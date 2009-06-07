@@ -6,6 +6,6 @@ There is no configuration.php file. Usually when trying to run without this Joom
 
 Create the following folders by hand. There are not added to source because the content of these folders are just temporary files that will vary from server to server:
 
-www/cache
-www/logs
-www/tmp
+  * www/cache
+  * www/logs
+  * www/tmp
