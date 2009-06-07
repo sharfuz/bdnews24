@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+ <!--  $Id  --> 
+<metafile version="1.5" client="site">
+	<name>Bengali / Bangla (Bangladesh)</name> 
+	<tag>bn-BD</tag> 
+	<version>1.5.8</version> 
+	<creationDate>26 December 2008</creationDate> 
+	<author>Kodiva</author> 
+	<authorEmail>kodiva@kodiva.com</authorEmail> 
+	<authorUrl>www.kodiva.com</authorUrl> 
+	<copyright>Copyright (C) 2005 - 2008 Kodiva. All rights reserved.</copyright> 
+	<license>FreeBSD</license> 
+	<description>Bengali / Bangla Site Language</description>
+	<metadata>
+		<name>Bengali / Bangla (Bangladesh)</name> 
+		<tag>bn-BD</tag> 
+		<rtl>0</rtl> 
+		<locale>bn_BD.utf8, bn_BD.UTF-8, bn_BD, bng_BD, bn, Bangla,bengali, Bengali-Bangladesh, bd, Bangladesh</locale> 
+		<winCodePage>iso-8859-1</winCodePage> 
+		<backwardLang>Bengali</backwardLang> 
+		<pdfFontName>freesans</pdfFontName> 
+	</metadata>
+	<params />
+</metafile>
