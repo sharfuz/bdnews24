@@ -3,3 +3,9 @@
 = Installation =
 
 There is no configuration.php file. Usually when trying to run without this Joomla will try to find the installation folder attempting to do fresh install. So, just copy configuration.php-dist to configuration.php, then edit the file and fill in the settings (like hostname, db user/password/name, physical folder structure, etc).
+
+Create the following folders by hand. There are not added to source because the content of these folders are just temporary files that will vary from server to server:
+
+www/cache
+www/logs
+www/tmp
