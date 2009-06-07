@@ -1,4 +1,4 @@
-#summary This page is for the web designer / template editor. Denotes the various available positions in the template
+#summary This page is for the web designer / template editor. Denotes the various available positions in the template.
 
 =Template Positions=
 
