@@ -67,6 +67,7 @@ JHTML::_( 'behavior.mootools' );
 	<?php if($enable_rokzoom=="true") :?>
 	<link href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template?>/rokzoom/rokzoom.css" rel="stylesheet" type="text/css" />
 	<?php endif; ?>
+	<link href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template?>/rokzoom/template_ko.css" rel="stylesheet" type="text/css" />
 	<style type="text/css">
 		div.wrapper { <?php echo $template_width; ?>padding:0;}
 		td.sidecol { width: <?php echo $sidebar_width; ?>px;}
@@ -333,6 +334,8 @@ JHTML::_( 'behavior.mootools' );
 												</td>
 												<!-- end main column -->
 												<!-- when side column is on the right -->
+												<td>   foo bar    </td>
+												
 												<?php if ($sidebar_side=="right" and ($this->countModules('right') or ($subnav))) : ?>
 													<td class="sidecol">
 														<div class="sameheight">
