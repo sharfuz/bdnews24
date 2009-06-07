@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: de-install.xml 400 2008-11-10 21:10:52Z sisko1990 $ -->
+<install type="language" version="1.5" client="site" method="upgrade">
+	<name>Bengali / Bangla (Bangladesh)</name>
+	<tag>bn-BD</tag>		
+	<version>1.5.8</version>
+	<creationDate>26 December 2008</creationDate>
+	<author>Kodiva</author>
+	<authorEmail>kodiva@kodiva.com</authorEmail>
+	<description>Bengali / Bangla Site Language</description>
+	<files>
+		<file file="meta">bn-BD.xml</file>
+		<file>bn-BD.ini</file>
+		<file>bn-BD.com_banners.ini</file>
+		<file>bn-BD.com_contact.ini</file>
+		<file>bn-BD.com_content.ini</file>
+		<file>bn-BD.com_frontpage.ini</file>
+		<file>bn-BD.com_mailto.ini</file>
+		<file>bn-BD.com_media.ini</file>
+		<file>bn-BD.com_messages.ini</file>
+		<file>bn-BD.com_newsfeeds.ini</file>
+		<file>bn-BD.com_poll.ini</file>
+		<file>bn-BD.com_search.ini</file>
+		<file>bn-BD.com_user.ini</file>
+		<file>bn-BD.com_weblinks.ini</file>
+		<file>bn-BD.com_wrapper.ini</file>
+		<file>bn-BD.ignore.php</file>
+		<file>bn-BD.mod_archive.ini</file>
+		<file>bn-BD.mod_banners.ini</file>
+		<file>bn-BD.mod_breadcrumbs.ini</file>
+		<file>bn-BD.mod_custom.ini</file>
+		<file>bn-BD.mod_feed.ini</file>
+		<file>bn-BD.mod_footer.ini</file>
+		<file>bn-BD.mod_latestnews.ini</file>
+		<file>bn-BD.mod_login.ini</file>
+		<file>bn-BD.mod_mainmenu.ini</file>
+		<file>bn-BD.mod_mostread.ini</file>
+		<file>bn-BD.mod_newsflash.ini</file>
+		<file>bn-BD.mod_online.ini</file>
+		<file>bn-BD.mod_poll.ini</file>
+		<file>bn-BD.mod_random_image.ini</file>
+		<file>bn-BD.mod_related_items.ini</file>
+		<file>bn-BD.mod_search.ini</file>
+		<file>bn-BD.mod_sections.ini</file>
+		<file>bn-BD.mod_stats.ini</file>
+		<file>bn-BD.mod_syndicate.ini</file>
+		<file>bn-BD.mod_whosonline.ini</file>
+		<file>bn-BD.mod_wrapper.ini</file>
+		<file>bn-BD.plg_content_vote.ini</file>
+		<file>bn-BD.plg_search_categories.ini</file>
+		<file>bn-BD.plg_search_contacts.ini</file>
+		<file>bn-BD.plg_search_content.ini</file>
+		<file>bn-BD.plg_search_newsfeeds.ini</file>
+		<file>bn-BD.plg_search_sections.ini</file>
+		<file>bn-BD.plg_search_weblinks.ini</file>
+		<file>bn-BD.plg_system_debug.ini</file>
+		<file>bn-BD.tpl_beez.ini</file>
+		<file>bn-BD.tpl_ja_purity.ini</file>
+		<file>bn-BD.tpl_rhuk_milkyway.ini</file>
+		<file>bn-install.xml</file>
+		<file>index.html</file>
+	</files>
+</install>
