@@ -9,3 +9,13 @@ Create the following folders by hand. There are not added to source because the 
   * www/cache
   * www/logs
   * www/tmp
+
+For database, please use the latest database dump found at the following location:
+
+  * db/
+
+Use the latest remote file. The naming format of this file is: bdnews24_year.mo.da_remote.sql. For example:
+
+  * bdnews24_2009.06.06_remote.sql
+
+In case the date is different, please use the one with the latest date.
