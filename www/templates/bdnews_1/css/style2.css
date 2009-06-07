@@ -1,0 +1,350 @@
+/* style2 */
+
+/* @group Core Elements */
+
+body {
+	color: #333;
+	background: #434A4E;
+}
+
+h1 { 
+	color: #1E6298;
+}
+
+h2 {
+	color: #444;
+}
+
+h3 {
+	color: #1E6298;
+}
+
+h4 {
+	color: #444;
+}
+
+a {
+	color: #1E6298;
+}
+
+/* @end */
+
+/* @group Joomla Elements */
+
+.componentheading {
+	color: #444;
+}
+
+.contentheading {
+	color: #1E6298;
+}
+
+.sectiontableheader {
+  	border-bottom: 1px solid #f0f0f0;
+}
+
+/* @end */
+
+/* @group Structure */
+
+#header-bar {
+	background: url(../images/style2/header-bg.png) 0 0 repeat-x;
+	color: #fff;
+}
+
+#newsflash a {
+	color: #CEE1EF;
+}
+
+#logo {
+	background: url(../images/style2/logo.png) 0 0 no-repeat;
+}
+
+#mainpage {
+	background: #4E5558 url(../images/style2/mainpage-side.png) 0 0 repeat-y;
+}
+
+#mainpage .right {
+	background: url(../images/style2/mainpage-side.png) 100% 0 repeat-y;
+}
+
+#mainpage2 {
+	background: url(../images/style2/mainpage-tr.png) 100% 0 no-repeat;
+}
+
+#mainpage3 {
+	background: url(../images/style2/mainpage-tl.png) 0 0 no-repeat;
+}
+
+#mainpage-bottom {
+	background: #4E5558;
+}
+
+#mainpage-bottom .right {
+	background: url(../images/style2/mainpage-br.png) 100% 100% no-repeat;
+}
+
+#mainpage-bottom .left{
+	background: url(../images/style2/mainpage-bl.png) 0 100% no-repeat;	
+}
+
+#sidecol-top {
+	background: url(../images/style2/sidecol-tl.png) 0 0 no-repeat;
+}
+
+#sidecol-top2 {
+	background: url(../images/style2/sidecol-tr.png) 100% 0 no-repeat;
+}
+
+#sidecol-bottom {
+	background: url(../images/style2/sidecol-br.png) 100% 100% no-repeat;
+}
+
+#sidecol-bottom2 {
+	background: url(../images/style2/sidecol-bl.png) 0 100% no-repeat;
+}
+
+#main-content {
+	background: #fff url(../images/style2/content/mainpage-br.png) 100% 100% no-repeat;
+}
+
+#main-content .bottom-left {
+	background: url(../images/style2/content/mainpage-bl.png) 0 100% no-repeat;
+}
+
+#main-content2 {
+	background: url(../images/style2/content/mainpage-tr.png) 100% 0 no-repeat;
+}
+
+#main-content3  {
+	background: url(../images/style2/content/mainpage-tl.png) 0 0 no-repeat;
+}
+
+#bottom-modules-top {
+	background: url(../images/style2/bottom/bottommod-tm.png) 0 0 repeat-x;
+	height: 53px;
+	margin-top: 25px;
+}
+
+#bottom-modules-top .top-left {
+	background: url(../images/style2/bottom/bottommod-tr.png) 100% 0 no-repeat;
+}
+
+#bottom-modules-top .middle {
+	background: url(../images/style2/bottom/bottommod-tl.png) 0 0 no-repeat;
+}
+
+#bottom-modules {
+	background: #B4B4B4 url(../images/style2/bottom/bottommod-l.png) 0 0 repeat-y;
+}
+
+#bottom-modules .right {
+	background: url(../images/style2/bottom/bottommod-r.png) 100% 0 repeat-y;
+}
+
+#bottom-modules-bottom {
+	background: url(../images/style2/bottom/bottommod-bm.png) 100% 0 repeat-x;
+}
+
+#bottom-modules-bottom .bottom-left {
+	background: url(../images/style2/bottom/bottommod-br.png) 100% 0 no-repeat;
+}
+
+#bottom-modules-bottom .middle {
+	background: url(../images/style2/bottom/bottommod-bl.png) 0 0 no-repeat;
+}
+
+#bottom-modules div.moduletable .readon {
+	background: url(../images/modules/readon-darkgray.png) 0 0 no-repeat;
+}
+
+#bottom-modules div.moduletable h3 {
+	color: #fff;
+}
+
+img#rocket {
+	background: url(../images/style2/kodiva.png) 0 0 no-repeat;
+}
+
+/* @end */
+
+/* @group Modules */
+
+#newsblock2 div.module h3 {
+	color: #1E6298;
+}
+
+#maincol div.module-latestnews h3 {
+	color: #1E6298;
+}
+
+#mod-login a {
+	color: #CEE1EF;
+}
+
+.loginelement  .inputbox {
+	background: #759DBC;
+	border: 1px solid #1C5D92;
+}
+
+#bottommods div.moduletable h3 {
+	color: #CEE1EF;
+}
+
+/* @end */
+
+/* @group Horizontal Menu */
+
+#horiz-menu a {
+	color: #fff;
+}
+
+#horiz-menu li:hover a,
+#horiz-menu li.sfHover a,
+#horiz-menu li:hover a.topdaddy,
+#horiz-menu li.sfHover a.topdaddy,
+#horiz-menu a.topdaddy:hover,
+#horiz-menu li li:hover a:hover,
+#horiz-menu li li.sfHover a:hover {
+	color: #ccc;
+}
+
+#horiz-menu li:hover li a,
+#horiz-menu li.sfHover li a,
+#horiz-menu li.active:hover a,
+#horiz-menu li.active.sfHover a {
+	color: #fff;
+}
+
+#horiz-menu li.active,
+#horiz-menu.splitmenu li.active:hover,
+#horiz-menu.splitmenu li.active.sfHover,
+#horiz-menu li.active.parent:hover,
+#horiz-menu li.active.parent.sfHover,
+#horiz-menu li.active:hover,
+#horiz-menu li.active.sfHover {
+	background: url(../images/style2/active-tab-r.png) 100% 0 no-repeat;
+}
+
+#horiz-menu li.active a,
+#horiz-menu.splitmenu li.active:hover a,
+#horiz-menu.splitmenu li.active.sfHover a,
+#horiz-menu li.active.parent:hover a,
+#horiz-menu li.active.parent.sfHover a,
+#horiz-menu li.active:hover a,
+#horiz-menu li.active.sfHover a {
+	background: url(../images/style2/active-tab-l.png) 0 0 no-repeat;
+}
+
+#horiz-menu li:hover a,
+#horiz-menu li.sfHover a,
+#horiz-menu li.parent:hover,
+#horiz-menu li.parent.sfHover {
+	background: url(../images/style2/over-tab.png) 0 0 no-repeat;	
+}
+
+#horiz-menu li li a:hover {
+	color: #ccc;
+}
+
+#horiz-menu li.active a {
+	color: #fff;
+}
+
+#horiz-menu li li.parent a.daddy,
+#horiz-menu li.active li.parent a.daddy {
+	background: url(../images/style2/dropdown-child.png) 95% 50% no-repeat;
+}
+
+#horiz-menu li li, 
+#horiz-menu li:hover li,
+#horiz-menu li.sfHover li,
+#horiz-menu li.parent:hover li,
+#horiz-menu li.parent.sfHover li,
+#horiz-menu li.active.parent:hover li,
+#horiz-menu li.active.parent.sfHover li {
+	background: url(../images/style2/dropdown-div.png) 0 100% repeat-x;
+}
+
+#horiz-menu ul ul {
+	background: #4E5558 url(../images/style2/dropdown-top.png) 0 0 no-repeat;
+	border-left: 1px solid #434A4E;
+	border-right: 1px solid #434A4E;
+}
+
+#horiz-menu ul ul ul {
+	background: #4E5558;
+	border-left: 1px solid #434A4E;
+	border-right: 1px solid #434A4E;
+}
+
+/* @end */
+
+/* @group Submenu */
+
+ul.menuside a,
+ul.menuside li.active li a {
+	color: #ccc;
+}
+
+ul.menuside li.active a,
+ul.menuside a:hover,
+ul.menuside li.active li a:hover {
+	color: #fff;
+}
+
+/* @end */
+
+/* @group Mainmenu */
+
+a.mainlevel:hover {
+	color: #1E6298;
+}
+
+a.mainlevel {
+	color: #444;
+}
+
+a.sublevel {
+	color: #444;
+}
+
+a.sublevel:hover {
+	color: #1E6298;
+}
+
+a#active_menu {
+	color: #1E6298;
+}
+
+/* @end */
+
+/* @group Content Styles */
+
+a.readon {
+	color: #fff;
+	background: url(../images/modules/readon-blue.png) 0 0 no-repeat;
+}
+
+div.moduletable a.readon,
+div.module a.readon {
+	background: url(../images/modules/readon-darkgray.png) 0 0 no-repeat;
+}
+
+a.large .button {
+	background: url(../images/font-l-dark.png) 0 0 no-repeat;
+}
+
+a.small .button {
+	background: url(../images/font-s-dark.png) 0 0 no-repeat;
+}
+
+a.default .button {
+	background: url(../images/font-m-dark.png) 0 0 no-repeat;
+}
+
+#newsflash .controls img {
+	background-image: url(../images/style2/news-scroller-controls.png);
+}
+
+/* @end */

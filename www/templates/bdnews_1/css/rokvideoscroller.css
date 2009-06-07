@@ -1,0 +1,55 @@
+/* Video Scroller */
+
+.video .left { 
+	float: left; 
+}
+
+.video { 
+	clear: both; 
+	height: 72px;
+	overflow: hidden;
+}
+.video p { padding: 0; margin: 10px 0;  }
+
+.video-controls {
+	text-align: right;
+	padding: 10px;
+}
+
+.video-controls .control-prev, 	.video-controls .control-next {
+	background-repeat: no-repeat;
+	cursor: pointer;
+	height: 15px;
+	margin: 0 3px;
+	width: 15px;
+}
+
+.video-controls .control-page {
+	background-repeat: no-repeat;
+	cursor: pointer;
+	height: 6px;
+	margin: 0 3px 5px 3px;
+	width: 6px;
+}
+
+.video-controls .control-page.active {
+	background-position: top right;
+}
+
+.video-controls .control-prev {
+	background-position: top left;
+}
+
+.video-controls .control-prev.disabled {
+	background-position: bottom right;
+	cursor: auto;
+}
+
+.video-controls .control-next {
+	background-position: top right;
+}
+
+.video-controls .control-next.disabled {
+	background-position: bottom left;
+	cursor: auto;
+}

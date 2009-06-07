@@ -1,0 +1,125 @@
+/** IE6 is a hunk of crap!!! due to limitations in the CSS capabilities of IE, these hacks are required **/
+
+/* roknewsrotator fixes */
+
+#news-rotator {
+	zoom: 1;
+}
+
+#news-rotator .c1, #news-rotator .c2 {
+	right: -1px;
+}
+
+/* rokslide fixes */
+#rokslide-wrapper {
+	display: inline-block;
+	text-align: center;
+}
+
+#rokslide-wrapper del {
+	display: inline-block;
+}
+
+ul#rokslide-toolbar {
+  display: table;
+  padding: 0;
+}
+
+#rokslide-toolbar li {
+	float: left;
+}
+
+#rokslide-toolbar li span {
+	float: left;
+}
+
+.spacer.w49 .block {
+	width: 49.99%;
+}
+
+.spacer.w33 .block {
+	width: 32.99%;
+}
+
+#frame .mmpr-2 .module {
+	width: 49.99%;
+}
+
+#tabmodules div div div {
+	height: 1%;
+}
+
+#rokslide-toolbar span {
+	padding: 0 15px;
+}
+
+div.module div div div,
+div.module-hilite1 div div div,
+div.module-hilite2 div div div,
+div.module-hilite3 div div div,
+div.module-hilite4 div div div,
+div.module-hilite5 div div div,
+div.module-hilite1a div div div,
+div.module-hilite2a div div div,
+div.module-hilite3a div div div,
+div.module-hilite4a div div div,
+div.module-hilite5a div div div,
+div.module-hilite1b div div div,
+div.module-hilite2b div div div,
+div.module-hilite3b div div div,
+div.module-hilite4b div div div,
+div.module-hilite5b div div div,
+div.module-color-red div div div,
+div.module-color-blue div div div,
+div.module-color-green div div div,
+div.module-color-darkgray div div div,
+div.module-weather div div div,
+div.module-faq div div div,
+div.module-download div div div,
+td.sidecol div.module-hilite1 div,
+td.sidecol div.module-hilite2 div,
+td.sidecol div.module-hilite3 div,
+td.sidecol div.module-hilite4 div,
+td.sidecol div.module-hilite5 div,
+td.sidecol div.module-ad div,
+#morenews4,
+#bottom-modules-top,
+#bottom-modules,
+#bottom-modules .right,
+#mainpage, #mainpage .right, #mainpage2, #mainpage3  {
+	zoom: 1;
+}
+
+#maincol .sameheight {
+	width: 100%;
+	zoom: 1;
+}
+
+#headlinemodules {
+	width: 100%;
+}
+
+#headlinemodules div.moduletable,
+#headlinemodules div.moduletable-headline-red,
+#headlinemodules div.moduletable-headline-blue,
+#headlinemodules div.moduletable-headline-green,
+#headlinemodules div.moduletable-headline-orange {
+	padding-right: 14px;
+}
+
+#headlinemodules a.readon {
+	margin-right: 15px;
+}
+
+/* added for 1.5 */
+#mainpage .right,
+#mainpage-bottom .right,
+#mainpage-bottom .left {
+	width: 100%;
+	margin: 0;
+}
+
+#bottom-modules .right {
+	margin: 0;
+	padding: 0;
+}
