@@ -1,0 +1,31 @@
+=Template Positions=
+
+  # pagepeel
+  # toolbar
+  # top
+  # breadcrumbs
+  # search
+  # ad_1
+  # ad_2
+  # ad_3
+  # ad_4
+  # ad_5
+  # ad_6
+  # advert1
+  # advert2
+  # user1
+  # user2
+  # user3
+  # user4
+  # user5
+  # user6
+  # user7
+  # user8
+  # user9
+  # user10
+  # user11
+  # left
+  # right_inner
+  # right_inner1
+  # right_inner2
+  # right
