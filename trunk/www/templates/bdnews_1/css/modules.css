@@ -1,0 +1,789 @@
+td.sidecol div.module,
+td.sidecol div.module h3 {
+	color: #444;
+}
+
+td.sidecol div.module-hilite1a a,
+td.sidecol div.module-hilite1b a,
+td.sidecol div.module-hilite2a a,
+td.sidecol div.module-hilite2b a,
+td.sidecol div.module-hilite4a a,
+td.sidecol div.module-hilite4b a,
+td.sidecol div.module-hilite5a a,
+td.sidecol div.module-hilite5b a {
+	color: #fff;
+}
+
+td.sidecol div.module-hilite1a h3 {
+	color: #FFD9DA;
+}
+
+td.sidecol div.module-hilite1a {
+	background: url(../images/modules/hilite1a/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite1a div {
+	background: url(../images/modules/hilite1a/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite1a div div {
+	background: url(../images/modules/hilite1a/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite1a div div div {
+	background: url(../images/modules/hilite1a/module-tl.png) 0 0 no-repeat;	
+	color: #FFD9DA;
+}
+
+td.sidecol div.module-hilite1b h3 {
+	color: #FFD9DA;
+}
+
+td.sidecol div.module-hilite1b {
+	background: url(../images/modules/hilite1b/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite1b div {
+	background: url(../images/modules/hilite1b/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite1b div div {
+	background: url(../images/modules/hilite1b/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite1b div div div {
+	background: url(../images/modules/hilite1b/module-tl.png) 0 0 no-repeat;	
+	color: #FFD9DA;
+}
+
+td.sidecol div.module-hilite2a h3 {
+	color: #ccc;
+}
+
+td.sidecol div.module-hilite2a {
+	background: url(../images/modules/hilite2a/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite2a div {
+	background: url(../images/modules/hilite2a/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite2a div div {
+	background: url(../images/modules/hilite2a/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite2a div div div {
+	background: url(../images/modules/hilite2a/module-tl.png) 0 0 no-repeat;	
+	color: #ccc;
+}
+
+td.sidecol div.module-hilite2b h3 {
+	color: #ccc;
+}
+
+td.sidecol div.module-hilite2b {
+	background: url(../images/modules/hilite2b/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite2b div {
+	background: url(../images/modules/hilite2b/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite2b div div {
+	background: url(../images/modules/hilite2b/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite2b div div div {
+	background: url(../images/modules/hilite2b/module-tl.png) 0 0 no-repeat;	
+	color: #ccc;
+}
+
+td.sidecol div.module-hilite1a .readon,
+td.sidecol div.module-hilite1b .readon,
+td.sidecol div.module-hilite2a .readon,
+td.sidecol div.module-hilite2b .readon,
+td.sidecol div.module-hilite4a .readon,
+td.sidecol div.module-hilite4b .readon,
+td.sidecol div.module-hilite5a .readon,
+td.sidecol div.module-hilite5b .readon,
+#morenews .readon {
+	background: url(../images/modules/readon-arrow.png) 0 50% no-repeat;
+}
+
+td.sidecol div.module .readon,
+td.sidecol div.module-hilite3a .readon,
+td.sidecol div.module-hilite3b .readon,
+td.sidecol div.module-hilite1 .readon,
+td.sidecol div.module-hilite2 .readon,
+td.sidecol div.module-hilite3 .readon,
+td.sidecol div.module-hilite4 .readon,
+td.sidecol div.module-hilite5 .readon {
+	background: url(../images/modules/readon-arrow2.png) 0 50% no-repeat;
+}
+
+td.sidecol div.module-hilite1a .readon,
+td.sidecol div.module-hilite1b .readon {
+	color: #FFD9DA;
+}
+
+td.sidecol div.module-hilite2a .readon,
+td.sidecol div.module-hilite2b .readon,
+#morenews .readon {
+	color: #ccc;
+}
+
+td.sidecol div.module .readon,
+td.sidecol div.module-hilite3a .readon,
+td.sidecol div.module-hilite3b .readon,
+td.sidecol div.module-hilite1 .readon,
+td.sidecol div.module-hilite2 .readon,
+td.sidecol div.module-hilite3 .readon,
+td.sidecol div.module-hilite4 .readon,
+td.sidecol div.module-hilite5 .readon {
+	color: #555;
+}
+
+td.sidecol div.module-hilite4a .readon,
+td.sidecol div.module-hilite4b .readon {
+	color: #CEE1EF;
+}
+
+td.sidecol div.module-hilite5a .readon,
+td.sidecol div.module-hilite5b .readon {
+	color: #C7DFAB;
+}
+
+td.sidecol div.module-hilite3a h3 {
+	color: #555;
+}
+
+td.sidecol div.module-hilite3a {
+	background: url(../images/modules/hilite3a/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite3a div {
+	background: url(../images/modules/hilite3a/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite3a div div {
+	background: url(../images/modules/hilite3a/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite3a div div div {
+	background: url(../images/modules/hilite3a/module-tl.png) 0 0 no-repeat;	
+	color: #555;
+}
+
+td.sidecol div.module-hilite3b h3 {
+	color: #555;
+}
+
+td.sidecol div.module-hilite3b {
+	background: url(../images/modules/hilite3b/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite3b div {
+	background: url(../images/modules/hilite3b/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite3b div div {
+	background: url(../images/modules/hilite3b/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite3b div div div {
+	background: url(../images/modules/hilite3b/module-tl.png) 0 0 no-repeat;	
+	color: #555;
+}
+
+td.sidecol div.module-hilite4a h3 {
+	color: #CEE1EF;
+}
+
+td.sidecol div.module-hilite4a {
+	background: url(../images/modules/hilite4a/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite4a div {
+	background: url(../images/modules/hilite4a/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite4a div div {
+	background: url(../images/modules/hilite4a/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite4a div div div {
+	background: url(../images/modules/hilite4a/module-tl.png) 0 0 no-repeat;	
+	color: #CEE1EF;
+}
+
+td.sidecol div.module-hilite4b h3 {
+	color: #CEE1EF;
+}
+
+td.sidecol div.module-hilite4b {
+	background: url(../images/modules/hilite4b/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite4b div {
+	background: url(../images/modules/hilite4b/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite4b div div {
+	background: url(../images/modules/hilite4b/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite4b div div div {
+	background: url(../images/modules/hilite4b/module-tl.png) 0 0 no-repeat;	
+	color: #CEE1EF;
+}
+
+td.sidecol div.module-hilite5a h3 {
+	color: #C7DFAB;
+}
+
+td.sidecol div.module-hilite5a {
+	background: url(../images/modules/hilite5a/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite5a div {
+	background: url(../images/modules/hilite5a/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite5a div div {
+	background: url(../images/modules/hilite5a/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite5a div div div {
+	background: url(../images/modules/hilite5a/module-tl.png) 0 0 no-repeat;	
+	color: #C7DFAB;
+}
+
+td.sidecol div.module-hilite5b h3 {
+	color: #C7DFAB;
+}
+
+td.sidecol div.module-hilite5b {
+	background: url(../images/modules/hilite5b/module-br.png) 100% 100% no-repeat;
+}
+
+td.sidecol div.module-hilite5b div {
+	background: url(../images/modules/hilite5b/module-bl.png) 0 100% no-repeat;	
+}
+
+td.sidecol div.module-hilite5b div div {
+	background: url(../images/modules/hilite5b/module-tr.png) 100% 0 no-repeat;	
+}
+
+td.sidecol div.module-hilite5b div div div {
+	background: url(../images/modules/hilite5b/module-tl.png) 0 0 no-repeat;	
+	color: #C7DFAB;
+}
+
+td.sidecol div.module-hilite1 h3 {
+	color: #FFD9DA;
+}
+
+td.sidecol div.module-hilite2 h3 {
+	color: #ccc;
+}
+
+td.sidecol div.module-hilite3 h3 {
+	color: #555;
+}
+
+td.sidecol div.module-hilite4 h3 {
+	color: #CEE1EF;
+}
+
+td.sidecol div.module-hilite5 h3 {
+	color: #C7DFAB;
+}
+
+td.sidecol div.module-ad h3 {
+	color: #FFD9DA;
+}
+
+td.sidecol div.module-hilite1,
+td.sidecol div.module-ad {
+	background: url(../images/modules/hilite1/module-tr.png) 100% 0 no-repeat;
+}
+
+td.sidecol div.module-hilite1 div,
+td.sidecol div.module-ad div {
+	background: url(../images/modules/hilite1/module-tl.png) 0 0 no-repeat;
+	color: #444;
+}
+
+td.sidecol div.module-hilite2 {
+	background: url(../images/modules/hilite2/module-tr.png) 100% 0 no-repeat;
+}
+
+td.sidecol div.module-hilite2 div {
+	background: url(../images/modules/hilite2/module-tl.png) 0 0 no-repeat;
+	color: #444;
+}
+
+td.sidecol div.module-hilite3 {
+	background: url(../images/modules/hilite3/module-tr.png) 100% 0 no-repeat;
+}
+
+td.sidecol div.module-hilite3 div {
+	background: url(../images/modules/hilite3/module-tl.png) 0 0 no-repeat;
+	color: #444;
+}
+
+td.sidecol div.module-hilite4 {
+	background: url(../images/modules/hilite4/module-tr.png) 100% 0 no-repeat;
+}
+
+td.sidecol div.module-hilite4 div {
+	background: url(../images/modules/hilite4/module-tl.png) 0 0 no-repeat;
+	color: #444;
+}
+
+td.sidecol div.module-hilite5 {
+	background: url(../images/modules/hilite5/module-tr.png) 100% 0 no-repeat;
+}
+
+td.sidecol div.module-hilite5 div {
+	background: url(../images/modules/hilite5/module-tl.png) 0 0 no-repeat;
+	color: #444;
+}
+
+/* video scroller */
+td.sidecol .module-hilite1 .video-list, td.sidecol .module-hilite1a .video-list, td.sidecol .module-hilite1b .video-list, 
+td.sidecol .module-hilite2 .video-list, td.sidecol .module-hilite2a .video-list, td.sidecol .module-hilite2b .video-list, 
+td.sidecol .module-hilite3 .video-list, td.sidecol .module-hilite3a .video-list, td.sidecol .module-hilite3b .video-list, 
+td.sidecol .module-hilite4 .video-list, td.sidecol .module-hilite4a .video-list, td.sidecol .module-hilite4b .video-list, 
+td.sidecol .module-hilite5 .video-list, td.sidecol .module-hilite5a .video-list, td.sidecol .module-hilite5b .video-list,
+td.sidecol .module-hilite1 .media-list, td.sidecol .module-hilite1a .media-list, td.sidecol .module-hilite1b .media-list, 
+td.sidecol .module-hilite2 .media-list, td.sidecol .module-hilite2a .media-list, td.sidecol .module-hilite2b .media-list, 
+td.sidecol .module-hilite3 .media-list, td.sidecol .module-hilite3a .media-list, td.sidecol .module-hilite3b .media-list, 
+td.sidecol .module-hilite4 .media-list, td.sidecol .module-hilite4a .media-list, td.sidecol .module-hilite4b .media-list, 
+td.sidecol .module-hilite5 .media-list, td.sidecol .module-hilite5a .media-list, td.sidecol .module-hilite5b .media-list {
+	margin-top: -30px;
+}
+
+td.sidecol .module-hilite1 .video-controls, td.sidecol .module-hilite1a .video-controls, td.sidecol .module-hilite1b .video-controls,
+td.sidecol .module-hilite2 .video-controls, td.sidecol .module-hilite2a .video-controls, td.sidecol .module-hilite2b .video-controls,
+td.sidecol .module-hilite3 .video-controls, td.sidecol .module-hilite3a .video-controls, td.sidecol .module-hilite3b .video-controls,
+td.sidecol .module-hilite4 .video-controls, td.sidecol .module-hilite4a .video-controls, td.sidecol .module-hilite4b .video-controls,
+td.sidecol .module-hilite5 .video-controls, td.sidecol .module-hilite5a .video-controls, td.sidecol .module-hilite5b .video-controls,
+td.sidecol .module-hilite1 .media-controls, td.sidecol .module-hilite1a .media-controls, td.sidecol .module-hilite1b .media-controls,
+td.sidecol .module-hilite2 .media-controls, td.sidecol .module-hilite2a .media-controls, td.sidecol .module-hilite2b .media-controls,
+td.sidecol .module-hilite3 .media-controls, td.sidecol .module-hilite3a .media-controls, td.sidecol .module-hilite3b .media-controls,
+td.sidecol .module-hilite4 .media-controls, td.sidecol .module-hilite4a .media-controls, td.sidecol .module-hilite4b .media-controls,
+td.sidecol .module-hilite5 .media-controls, td.sidecol .module-hilite5a .media-controls, td.sidecol .module-hilite5b .media-controls {
+	margin-bottom: 20px;
+}
+
+td.sidecol .module-hilite1 .video, td.sidecol .module-hilite2 .video, td.sidecol .module-hilite3 .video, td.sidecol .module-hilite4 .video, td.sidecol .module-hilite5 .video,
+td.sidecol .module-hilite1 .media, td.sidecol .module-hilite2 .media, td.sidecol .module-hilite3 .media, td.sidecol .module-hilite4 .media, td.sidecol .module-hilite5 .media {
+	background: #E5E5E5;
+}
+
+/* red */
+
+td.sidecol .module-hilite1a .video, td.sidecol .module-hilite1b .video,
+td.sidecol .module-hilite1a .media, td.sidecol .module-hilite1b .media {
+	border-bottom: 1px solid #720000;
+}
+
+.module-hilite1 .video-controls .control-prev, .module-hilite1a .video-controls .control-prev, .module-hilite1b .video-controls .control-prev,
+.module-hilite1 .video-controls .control-next, .module-hilite1a .video-controls .control-next, .module-hilite1b .video-controls .control-next,
+.module-hilite1 .media-controls .control-prev, .module-hilite1a .media-controls .control-prev, .module-hilite1b .media-controls .control-prev,
+.module-hilite1 .media-controls .control-next, .module-hilite1a .media-controls .control-next, .module-hilite1b .media-controls .control-next {
+	background-image: url(../images/video-scroller-controls-red.png);
+}
+
+.module-hilite1 .control-page, .module-hilite1a  .control-page, .module-hilite1b .control-page {
+	background-image: url(../images/video-scroller-status-red.png);
+}
+
+/* blue */
+
+td.sidecol .module-hilite4a .video, td.sidecol .module-hilite4b .video,
+td.sidecol .module-hilite4a .media, td.sidecol .module-hilite4b .media {
+	border-bottom: 1px solid #507FA0;
+}
+
+.module-hilite4 .video-controls .control-prev, .module-hilite4a .video-controls .control-prev, .module-hilite4b .video-controls .control-prev,
+.module-hilite4 .video-controls .control-next, .module-hilite4a .video-controls .control-next, .module-hilite4b .video-controls .control-next,
+.module-hilite4 .media-controls .control-prev, .module-hilite4a .media-controls .control-prev, .module-hilite4b .media-controls .control-prev,
+.module-hilite4 .media-controls .control-next, .module-hilite4a .media-controls .control-next, .module-hilite4b .media-controls .control-next {
+	background-image: url(../images/video-scroller-controls-blue.png);
+}
+
+.module-hilite4 .control-page, .module-hilite4a  .control-page, .module-hilite4b .control-page {
+	background-image: url(../images/video-scroller-status-blue.png);
+}
+
+/* green */
+
+td.sidecol .module-hilite5a .video, td.sidecol .module-hilite5b .video,
+td.sidecol .module-hilite5a .media, td.sidecol .module-hilite5b .media {
+	border-bottom: 1px solid #77A244;
+}
+
+.module-hilite5 .video-controls .control-prev, .module-hilite5a .video-controls .control-prev, .module-hilite5b .video-controls .control-prev,
+.module-hilite5 .video-controls .control-next, .module-hilite5a .video-controls .control-next, .module-hilite5b .video-controls .control-next,
+.module-hilite5 .media-controls .control-prev, .module-hilite5a .media-controls .control-prev, .module-hilite5b .media-controls .control-prev,
+.module-hilite5 .media-controls .control-next, .module-hilite5a .media-controls .control-next, .module-hilite5b .media-controls .control-next {
+	background-image: url(../images/video-scroller-controls-green.png);
+}
+
+.module-hilite5 .control-page, .module-hilite5a  .control-page, .module-hilite5b .control-page {
+	background-image: url(../images/video-scroller-status-green.png);
+}
+
+/* darkgray */
+
+td.sidecol .module-hilite2a .video, td.sidecol .module-hilite2b .video,
+td.sidecol .module-hilite2a .media, td.sidecol .module-hilite2b .media {
+	border-bottom: 1px solid #5C6063;
+}
+
+.module-hilite2 .video-controls .control-prev, .module-hilite2a .video-controls .control-prev, .module-hilite2b .video-controls .control-prev,
+.module-hilite2 .video-controls .control-next, .module-hilite2a .video-controls .control-next, .module-hilite2b .video-controls .control-next,
+.module-hilite2 .media-controls .control-prev, .module-hilite2a .media-controls .control-prev, .module-hilite2b .media-controls .control-prev,
+.module-hilite2 .media-controls .control-next, .module-hilite2a .media-controls .control-next, .module-hilite2b .media-controls .control-next {
+	background-image: url(../images/video-scroller-controls-darkgray.png);
+}
+
+.module-hilite2 .control-page, .module-hilite2a  .control-page, .module-hilite2b .control-page {
+	background-image: url(../images/video-scroller-status-darkgray.png);
+}
+
+#headlinemodules div.moduletable h3 {
+	color: #444;
+	border-bottom: 2px solid #444;
+}
+
+#headlinemodules div.moduletable-headline-red h3 {
+	color: #444;
+	border-bottom: 2px solid #CA0006;
+}
+
+#headlinemodules div.moduletable-headline-blue h3 {
+	color: #444;
+	border-bottom: 2px solid #1E6298;
+}
+
+#headlinemodules div.moduletable-headline-green h3 {
+	color: #444;
+	border-bottom: 2px solid #43830B;
+}
+
+#headlinemodules div.moduletable-headline-orange h3 {
+	color: #444;
+	border-bottom: 2px solid #EA7700;
+}
+
+#headlinemodules span.headline {
+	color: #444;
+}
+
+#headlinemodules span.headline-red {
+	color: #CA0006;
+}
+
+#headlinemodules span.headline-blue {
+	color: #1E6298;
+}
+
+#headlinemodules span.headline-green {
+	color: #43830B;
+}
+
+#headlinemodules span.headline-orange {
+	color: #EA7700;
+}
+
+div.moduletable-headline-red a.readon {
+	background: url(../images/modules/readon-red.png) 0 0 no-repeat;
+}
+
+div.moduletable-headline-blue a.readon {
+	background: url(../images/modules/readon-blue.png) 0 0 no-repeat;
+}
+
+div.moduletable-headline-green a.readon {
+	background: url(../images/modules/readon-green.png) 0 0 no-repeat;
+}
+
+div.moduletable-headline-orange a.readon {
+	background: url(../images/modules/readon-orange.png) 0 0 no-repeat;
+}
+
+#newsblock2 div.module {
+	background: #F2F2F2 url(../images/modules/module-br.png) 100% 100% no-repeat;
+	height: 150px;
+}
+
+#newsblock2 div.module div {
+	background: url(../images/modules/module-bl.png) 0 100% no-repeat;
+	height: 150px;
+}
+
+#newsblock2 div.module div div {
+	background: url(../images/modules/module-tr.png) 100% 0 no-repeat;
+	height: 150px;
+}
+
+#newsblock2 div.module div div div {
+	background: url(../images/modules/module-tl.png) 0 0 no-repeat;
+	height: 150px;
+}
+
+#newsblock3 div.module {
+	background: #fff url(../images/modules/outline/module-br.png) 100% 100% no-repeat;
+}
+
+#newsblock3 div.module h3 {
+	color: #003366;
+}
+
+#newsblock3 div.module div {
+	background: url(../images/modules/outline/module-bl.png) 0 100% no-repeat;
+}
+
+#newsblock3 div.module div div {
+	background: url(../images/modules/outline/module-tr.png) 100% 0 no-repeat;
+}
+
+#newsblock3 div.module div div div {
+	background: url(../images/modules/outline/module-tl.png) 0 0 no-repeat;
+}
+
+#maincol div.module-color-red {
+	background: #9D0004 url(../images/modules/color-red/module-br.png) 100% 100% no-repeat;
+	color: #FFD9DA;
+}
+
+#maincol div.module-color-red a {
+	color: #fff;
+}
+
+#maincol div.module-color-red h3 {
+	color: #FFD9DA;
+}
+
+#maincol div.module-color-red div {
+	background: url(../images/modules/color-red/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-color-red div div {
+	background: url(../images/modules/color-red/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-color-red div div div {
+	background: url(../images/modules/color-red/module-tl.png) 0 0 no-repeat;
+}
+
+#maincol div.module-color-blue {
+	background: #1B5C90 url(../images/modules/color-blue/module-br.png) 100% 100% no-repeat;
+	color: #CEE1EF;
+}
+
+#maincol div.module-color-blue a {
+	color: #fff;
+}
+
+#maincol div.module-color-blue h3 {
+	color: #CEE1EF;
+}
+
+#maincol div.module-color-blue div {
+	background: url(../images/modules/color-blue/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-color-blue div div {
+	background: url(../images/modules/color-blue/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-color-blue div div div {
+	background: url(../images/modules/color-blue/module-tl.png) 0 0 no-repeat;
+}
+
+#maincol div.module-color-green {
+	background: #377B0A url(../images/modules/color-green/module-br.png) 100% 100% no-repeat;
+	color: #C7DFAB;
+}
+
+#maincol div.module-color-green a {
+	color: #fff;
+}
+
+#maincol div.module-color-green h3 {
+	color: #C7DFAB;
+}
+
+#maincol div.module-color-green div {
+	background: url(../images/modules/color-green/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-color-green div div {
+	background: url(../images/modules/color-green/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-color-green div div div {
+	background: url(../images/modules/color-green/module-tl.png) 0 0 no-repeat;
+}
+
+#maincol div.module-color-darkgray {
+	background: #4D5457 url(../images/modules/color-darkgray/module-br.png) 100% 100% no-repeat;
+	color: #ccc;
+}
+
+#maincol div.module-color-darkgray a {
+	color: #fff;
+}
+
+#maincol div.module-color-darkgray h3 {
+	color: #ccc;
+}
+
+#maincol div.module-color-darkgray div {
+	background: url(../images/modules/color-darkgray/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-color-darkgray div div {
+	background: url(../images/modules/color-darkgray/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-color-darkgray div div div {
+	background: url(../images/modules/color-darkgray/module-tl.png) 0 0 no-repeat;
+}
+
+#maincol div.module-latestnews {
+	background: #f2f2f2 url(../images/modules/latestnews/module-br.png) 100% 100% no-repeat;
+	color: #444;
+}
+
+#maincol div.module-latestnews div {
+	background: url(../images/modules/latestnews/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-latestnews div div {
+	background: url(../images/modules/latestnews/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-latestnews div div div {
+	background: url(../images/modules/latestnews/module-tl.png) 0 0 no-repeat;
+}
+
+#morenews {
+	background: #f2f2f2 url(../images/modules/morenews/module-br.png) 100% 100% no-repeat;
+	color: #ccc;
+}
+
+#morenews2 {
+	background: url(../images/modules/morenews/module-bl.png) 0 100% no-repeat;
+}
+
+#morenews3 {
+	background: url(../images/modules/morenews/module-tr.png) 100% 0 no-repeat;
+}
+
+#morenews4 {
+	background: url(../images/modules/morenews/module-tl.png) 0 0 no-repeat;
+}
+
+#morenews a {
+	color: #fff;
+}
+
+span.morenews-header {
+	color: #444;
+}
+
+#morenews .divider {
+	background: url(../images/modules/morenews/morenews-div.png) 96% 0 repeat-y;
+}
+
+#maincol div.module-weather {
+	background: #f2f2f2 url(../images/modules/weather/module-br.png) 100% 100% no-repeat;
+}
+
+#maincol div.module-weather h3 {
+	color: #003366;
+}
+
+#maincol div.module-weather div {
+	background: url(../images/modules/weather/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-weather div div {
+	background: url(../images/modules/weather/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-weather div div div {
+	background: url(../images/modules/weather/module-tl.png) 0 0 no-repeat;
+}
+
+#maincol div.module-faq {
+	background: #fff url(../images/modules/faq/module-br.png) 100% 100% no-repeat;
+}
+
+#maincol div.module-faq h3 {
+	color: #CA0006;
+}
+
+#maincol div.module-faq div {
+	background: url(../images/modules/faq/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-faq div div {
+	background: url(../images/modules/faq/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-faq div div div {
+	background: url(../images/modules/faq/module-tl.png) 0 0 no-repeat;
+}
+
+#maincol div.module-download {
+	background: #fff url(../images/modules/download/module-br.png) 100% 100% no-repeat;
+}
+
+#maincol div.module-download h3 {
+	color: #444;
+}
+
+#maincol div.module-download div {
+	background: url(../images/modules/download/module-bl.png) 0 100% no-repeat;
+}
+
+#maincol div.module-download div div {
+	background: url(../images/modules/download/module-tr.png) 100% 0 no-repeat;
+}
+
+#maincol div.module-download div div div {
+	background: url(../images/modules/download/module-tl.png) 0 0 no-repeat;
+}
+
+#rokslide-toolbar li.current { 
+	background: #DCDCDC url(../images/modules/tabber/tabber-div.png) 100% 0 no-repeat;
+}
+
+#rokslide-toolbar li {
+	background: url(../images/modules/tabber/tabber-div.png) 100% 0 no-repeat;
+}
+
+#tabmodules {
+	background: url(../images/modules/tabber/module-br.png) 100% 100% no-repeat;
+}
+
+#tabmodules div {
+	background: url(../images/modules/tabber/module-bl.png) 0 100% no-repeat;	
+}
+
+#tabmodules div div {
+	background: url(../images/modules/tabber/module-tr.png) 100% 0 no-repeat;	
+}
+
+#tabmodules div div div {
+	background: url(../images/modules/tabber/module-tl.png) 0 0 no-repeat;	
+}
+
+
+

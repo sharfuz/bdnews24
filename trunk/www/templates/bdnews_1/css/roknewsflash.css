@@ -1,0 +1,9 @@
+#newsflash{position:relative;}
+#newsflash ul{margin:0 0 0 120px;list-style:none;padding:0;}
+#newsflash li{padding-bottom:100px;}
+#newsflash .readon{clear:none;display:inline;float:none;height:auto;width:auto;line-height:100%;font-size:100%;margin:0;padding:0;background:none;}
+#newsflash .flashing{display:block;position:absolute;left:45px;font-weight:bold;}
+#newsflash .controls img{cursor:pointer;height:15px;margin-right:3px;width:15px;}
+#newsflash .control-prev{background-position:0pt 0pt;}
+#newsflash .control-next{background-position:0pt -17px;}
+#newsflash .controls{position:absolute;left:5px;}
