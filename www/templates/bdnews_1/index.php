@@ -334,7 +334,7 @@ JHTML::_( 'behavior.mootools' );
 												</td>
 												<!-- end main column -->
 												<!-- when side column is on the right -->
-												<td>   foo bar    </td>
+												<!-- <td>   foo bar    </td> -->
 												
 												<?php if ($sidebar_side=="right" and ($this->countModules('right') or ($subnav))) : ?>
 													<td class="sidecol">
