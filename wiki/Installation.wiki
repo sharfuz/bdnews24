@@ -10,6 +10,8 @@ Create the following folders by hand. There are not added to source because the 
   * www/logs
   * www/tmp
 
+The www/administrator has not been added under source control as the folder is very large and nothing in that folder is changed from the original distribution. Hence it is recommended to download the original Joomla distribution and simply copy the www/administrator folder from there.
+
 For database, please use the latest database dump found at the following location:
 
   * db/
