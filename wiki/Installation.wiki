@@ -1,4 +1,5 @@
 #summary Installation tips for bdnews24 / joomla base.
+#labels Phase-Deploy
 
 = Installation =
 
