@@ -1,0 +1,31 @@
+# Template Positions #
+
+  1. pagepeel
+  1. toolbar
+  1. top
+  1. breadcrumbs
+  1. search
+  1. ad\_1
+  1. ad\_2
+  1. ad\_3
+  1. ad\_4
+  1. ad\_5
+  1. ad\_6
+  1. advert1
+  1. advert2
+  1. user1
+  1. user2
+  1. user3
+  1. user4
+  1. user5
+  1. user6
+  1. user7
+  1. user8
+  1. user9
+  1. user10
+  1. user11
+  1. left
+  1. right\_inner
+  1. right\_inner1
+  1. right\_inner2
+  1. right
